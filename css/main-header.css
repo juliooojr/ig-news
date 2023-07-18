@@ -1,0 +1,8 @@
+.main-header {
+    box-sizing: border-box;
+    color: #E1E1E6;
+    height: 80px;
+    border-bottom: 5px #6262b3 solid ;
+    display: flex;
+    align-items: center;
+}
