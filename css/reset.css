@@ -6,9 +6,11 @@ body {
 body, h1, h2, h3, a {
 	margin: 0;
 	text-decoration: none;
+	color: inherit;
 }
 
 button{
 	border: none;
 	font-family: inherit;
+	padding: 0;
 }
