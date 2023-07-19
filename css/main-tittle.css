@@ -1,0 +1,17 @@
+.main-tittle {
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 72px;
+    color: #FFF;
+}
+
+.main-tittle span {
+    color: #61DCFB;
+}
+
+.main-tittle.-second {
+    color: #E1E1E6;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 34px;
+}

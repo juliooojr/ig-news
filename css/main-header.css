@@ -2,7 +2,7 @@
     box-sizing: border-box;
     color: #E1E1E6;
     height: 80px;
-    border-bottom: 5px #6262b3 solid ;
+    border-bottom: 1px #29292E solid ;
     display: flex;
     align-items: center;
 }
