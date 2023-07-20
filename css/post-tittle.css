@@ -1,0 +1,13 @@
+.post-tittle {
+    font-size: 24px;
+    color: #FFF;
+    font-weight: 700;
+    line-height: 34px;
+}
+
+.post-tittle.-second {
+    font-size: 16px;
+    color: #A8A8B3;
+    font-weight: 400;
+    line-height: 26px;
+}

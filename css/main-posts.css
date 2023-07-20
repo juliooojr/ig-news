@@ -1,0 +1,10 @@
+.main-posts {
+    justify-content: center;
+    padding-bottom: 25px;
+    border-bottom: 0.50px #323238 solid;
+    width: 55%;
+}
+
+.main-posts h1:hover {
+    color: #EBA417;
+}
