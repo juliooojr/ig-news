@@ -1,0 +1,8 @@
+.main-home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;  /* conversar com murillo sobre esse height e margins */
+    margin: 110px 270px 0 165px;
+}
+

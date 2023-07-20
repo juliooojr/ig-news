@@ -1,13 +1,10 @@
 .main-header {
     box-sizing: border-box;
-    color: #E1E1E6;
-    height: 80px;
-    border-bottom: 1px #29292E solid ;
     display: flex;
     align-items: center;
-}
-
-.main-header .logo {
-    padding-left: 165px;
-    padding-right: 82px;
+    justify-content: space-between;
+    height: 80px;
+    color: #E1E1E6;
+    border-bottom: 1px #29292E solid ;
+    padding: 24px 11%;
 }
