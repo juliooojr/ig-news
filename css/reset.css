@@ -10,8 +10,12 @@ body, h1, h2, h3, a {
 	color: inherit;
 }
 
-button{
+button {
 	border: none;
 	font-family: inherit;
 	padding: 0;
+}
+
+li {
+	margin-bottom: 10px;
 }

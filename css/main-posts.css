@@ -8,3 +8,14 @@
 .main-posts h1:hover {
     color: #EBA417;
 }
+
+.main-posts.-unique {
+    border: none;
+    padding: 0;
+}
+
+.main-posts.-unique::hover {
+    color: #FFF;
+}
+
+

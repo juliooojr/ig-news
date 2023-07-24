@@ -1,0 +1,24 @@
+.subscribe-button {
+    background-color: #1F2729;
+    border-radius: 100px;
+    height: 80px;
+    width: 55%;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
+    position: fixed;
+    bottom: 0;
+}
+
+.subscribe-button:hover {
+    transform: scale(1.04);
+}
+
+.subscribe-button span {
+    color: #EBA417;
+}

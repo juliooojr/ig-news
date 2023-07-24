@@ -11,3 +11,30 @@
     font-weight: 400;
     line-height: 26px;
 }
+
+.post-tittle.-unique {
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 60px;   
+}
+
+.post-tittle.-third {
+    color: #E1E1E6;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.post-tittle.-date {
+    display: flex;
+    color: #A8A8B3;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-top: 24px;
+    padding-bottom: 30px;
+}
+
+.post-tittle.-glossary {
+    margin-top: 64px;
+}
